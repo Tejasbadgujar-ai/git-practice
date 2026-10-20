@@ -1,0 +1,45 @@
+```text
+Video One
+
+Git is a version control software. It helps us track changes in our code. On Windows, we can use Git Bash. We can also use Git in the VS Code terminal.
+
+pwd
+It shows the current folder path.
+
+git --version
+It shows the installed Git version.
+
+git status
+It shows the current status of files.
+
+git init
+It creates a Git repository in the current folder.
+
+git add file1.txt
+It adds only file1.txt to the staging area.
+
+git add .
+It adds all changes from the current folder to the staging area.
+
+git commit -m "first commit"
+It saves the staged changes as a commit.
+
+git log
+It shows the commit history.
+
+git push
+It uploads local commits to GitHub.
+
+Steps I followed:
+
+1. Opened my project folder in VS Code.
+2. Opened the terminal.
+3. Used pwd to check the folder path.
+4. Checked Git using git --version.
+5. Used git status to check the files.
+6. Used git init to create a repository.
+7. Used git add to add files.
+8. Checked the status again.
+9. Used git commit to save the changes.
+10. Used git push to upload the code to GitHub.
+```

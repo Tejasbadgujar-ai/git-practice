@@ -1,0 +1,16 @@
+```text
+Video Three
+- git log shows full commit details and git log --oneline shows commits in short form.
+- git show shows commit information.
+- git branch is used to check all branches.
+- git branch file3 creates a new branch named file3.
+- The * symbol shows which branch we are currently on.
+- git switch file3 is used to switch to another branch.
+- git checkout can also be used to switch branches.
+- git branch -m newname is used to rename a branch.
+- Each branch can have different code changes without directly changing the main branch.
+- git merge is used to bring changes from one branch into another.
+- git diff shows differences between changes or commits.
+- git stash saves temporary changes, and git stash pop brings them back.
+- git tag is used to mark a specific version of the project.
+

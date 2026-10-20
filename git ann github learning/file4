@@ -1,0 +1,11 @@
+Video Four
+- GitHub is a web-based repository hosting service.
+- Other repository hosting services are Bitbucket, Azure Repos and Gitea.
+- We can create a repository on GitHub by adding a name and description and selecting public or private.
+- We can connect our GitHub repository to VS Code.
+- git remote -v shows the remote repository URL.
+- git remote add origin URL connects the local repository to GitHub.
+- We can use git push to upload our code to GitHub.
+- GitHub allows us to contribute to other people's projects.
+- We can check their code, make changes and suggest improvements through pull requests.
+- For private repositories, we need permission to access the code.

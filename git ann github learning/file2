@@ -1,0 +1,34 @@
+Video Two
+
+Git add:
+
+- We can add all files using git add .
+- We can also add one file at a time using git add filename.
+- git add filename adds only the selected file to the staging area.
+
+Git log:
+
+- git log shows the commit history.
+- It shows the commit ID, author name, date, time and commit message.
+- We can check how many commits we have made.
+
+Git commands:
+
+- We can run Git commands in the VS Code terminal or CMD.
+
+Atomic commits:
+
+- Atomic commits means making small commits for one specific change.
+- Each commit should have one clear purpose.
+
+Commit message:
+
+- Git commit messages usually use the imperative form, like "Add file" or "Update code".
+- If we use git commit without -m, Git opens an editor to write the commit message.
+- We can write the message, save and close the editor to complete the commit.
+
+.gitignore:
+
+- .gitignore is used to ignore files and folders that we don't want Git to track.
+- We can ignore unnecessary files, temporary files and virtual environments.
+- We should ignore .env files to avoid uploading secret information to GitHub.
